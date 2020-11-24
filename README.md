@@ -23,3 +23,5 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
 19. Ternary operator
 20. Switch statement
 21. Loops - for, while, repeat, break, continue
+22. Functions
+23. Closures
