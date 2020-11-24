@@ -20,3 +20,5 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
 16. Compound assignment operators
 17. Comparison operators
 18. Conditions
+19. Ternary operator
+20. Switch statement
