@@ -104,3 +104,33 @@ if (guessedNumber == luckyNumber || (guessedNumber % 2 == 0)) {
 } else {
     print("Wrong, try again")
 }
+
+// ternary operator
+let isSwift = true
+let programmingSwift = isSwift ? "I am programming with Swift" : "I am not programming with Swift"
+
+// switch statement
+let weather = "sunny"
+
+switch weather {
+    case "rain":
+        print("Bring an umbrella")
+    case "snow":
+        print("Wrap up warm")
+    case "sunny":
+        print("Wear sunscreen")
+        fallthrough
+    default:
+        print("Enjoy your day!")
+}
+
+let rank = 85
+
+switch rank {
+    case 0..<50:
+        print("You failed badly")
+    case 50..<85:
+        print("You did OK")
+    default:
+        print("You did great")
+}
