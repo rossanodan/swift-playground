@@ -37,4 +37,5 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
 33. Classes
 34. Differences between `class` and `struct`
 35. Class inheritance
-36. Mutability - `class` vs `struct`
+36. Overriding methods
+37. Mutability - `class` vs `struct`
