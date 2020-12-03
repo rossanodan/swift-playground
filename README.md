@@ -25,3 +25,16 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
 21. Loops - for, while, repeat, break, continue
 22. Functions
 23. Closures
+24. `struct`
+25. Computed properties
+26. Property observers
+27. Methods
+28. Mutating methods
+29. `self`
+30. Lazy properties with `lazy`
+31. `static`
+32. `private`
+33. Classes
+34. Differences between `class` and `struct`
+35. Class inheritance
+36. Mutability - `class` vs `struct`
