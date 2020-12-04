@@ -39,3 +39,6 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
 35. Class inheritance
 36. Overriding methods
 37. Mutability - `class` vs `struct`
+38. Protocols
+39. Handling `nil` values
+40. Optionals values with `?`
