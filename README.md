@@ -49,4 +49,4 @@ I am posting my progresses and my thoughts on [DEV](https://dev.to/rossanodan)
   - Sort images by name
   - Replace image name with `Picture X of Y` in the `UITableViewController`
 - Project2 - Built flags quiz
-- TODO: Project2 Challenge
+- Project2 - Challenge
